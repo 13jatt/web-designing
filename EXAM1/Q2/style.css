@@ -1,0 +1,26 @@
+{box-sizing: content-box;
+	margin:}
+
+
+#show1{
+	float: center;
+	width: 100%;
+}
+#container-1{
+	float: left;
+	width: 30%;
+	background-color: yellow;
+	margin: 5px;
+	padding:0;
+}
+#container-2{
+	float: left;
+	width: 33.3%;
+	background-color: green;
+	margin: 5px
+}
+#container-3{
+	float: left;
+	width: 33.3%;
+	background-color: purple;
+}
